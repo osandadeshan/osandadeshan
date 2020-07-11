@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 
 ### About Me
 A highly focused Senior Software Automation Engineer experienced in a variety of automation and engineering positions. Organized, methodical and a keen eye for detail results in solid coding and trustworthy automation scripting. Understanding client requirements and communicating the progress of projects are core values in achieving long lasting business relationships. 
+------------
+
+### Work Experience
+| Period  | Company | Designation | Description |
+| ------------- | ------------- | ------------- | ------------- |
+| 01 Aug 2016 - 30 Dec 2016 | Mitra Innovation  | Intern Software Engineer | Developed a web based system for an Australian hospital by delivering solutions to meet and exceed clients' briefs. Did web based test automation to support quality engineering team in order to gain ROI in the regression |
