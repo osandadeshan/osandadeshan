@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ### About Me
 A highly focused Senior Software Automation Engineer experienced in a variety of automation and engineering positions. Organized, methodical and a keen eye for detail results in solid coding and trustworthy automation scripting. Understanding client requirements and communicating the progress of projects are core values in achieving long lasting business relationships. 
