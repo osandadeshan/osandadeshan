@@ -23,18 +23,18 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
 ------------
 
 ### Core Skills
-* Industry aware and technically up to speed with current software development tools
-* Strong analytical skills and level headed problem solver
-* Strong Java in an object orientated environment
-* Experienced in Behaviour Driven Test Automation using Gauge Framework (Web, Android, iOS and API Automation)
-* Mobile Test Automation using Appium
-* Performance Testing using JMeter
-* Experienced in API Testing using SoapUI
-* Windows GUI based Automation using AutoIt
-* Security Testing
-* Reporting and documentation using JIRA and Confluence
-* Knowledge Apache, Linux, SQL databases and Linux
-* Version controlling using Git
+* Industry aware and technically up to speed with current software development tools.
+* Strong analytical skills and level headed problem solver.
+* Strong Java in an object orientated environment.
+* Experienced in Behaviour Driven Test Automation using Gauge Framework (Web, Android, iOS and API Automation).
+* Mobile Test Automation using Appium.
+* Performance Testing using JMeter.
+* Experienced in API Testing using SoapUI.
+* Windows GUI based Automation using AutoIt.
+* Security Testing.
+* Reporting and documentation using JIRA and Confluence.
+* Knowledge Apache, Linux, SQL databases and Linux.
+* Version controlling using Git.
 
 ------------
 
@@ -92,3 +92,50 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
       * Technologies: ASP.NET, WebAPI, MVC, Angular, HTML5, CSS
     * Did web based test automation to support quality engineering team in order to gain ROI in the regression.
       * Technologies: Gauge, Selenium, Maven, Java
+
+------------
+
+### Personal Projects
+* MaxSoft IntelliAPI Framework for API Test Automation
+  * The main reason for developing this framework is to provide an easy way for Technical QA/Developer/Non-technical QA to perform API testing.
+  * Advantages:
+     1. Generation of an executable document.
+     2. Human readable tests, business language and Mark-down syntax.
+     3. Tests can be designed even by a non- technical person.
+     4. Ability to validate backend databases.
+     5. Generate a HTML report with test details for every test execution.
+     6. Parallel execution.
+     7. Live execution report.
+     8. Automated emails for test execution summary with graphical representations.
+  * Technologies: 
+     1. Java
+     2. Gauge Framework
+     3. Rest Assured
+     4. Apache POI
+     5. Junit
+     6. Apache Maven
+
+* SoapUI To Gauge Plugin (API Test Execution and Report Generation Plugin)
+  * Execute preferred test cases of a test suite in SoapUI and generate a detailed report which can be customized
+  * Languages/Frameworks Used: Java, SoapUI, Gauge
+  * GitHub URL: https://github.com/osandadeshan/SoapUI-To-Gauge-Plugin
+
+* MySight – A new vision for blind (Final year research project)
+   * An android app for blind people to read printed materials such as books in a public library or shopping bills
+   * Languages/Frameworks Used: Java, Android Studio, OCR, OpenCV
+   * GitHub URL: https://github.com/osandadeshan/mysight
+    
+* Text-Extractor
+   * Extract text in physical documents
+   * Languages/Frameworks Used: Java, Android, OCR, Tesseract
+   * GitHub URL: https://github.com/osandadeshan/textextractor
+   * Google PlayStore: https://play.google.com/store/apps/details?id=com.osanda.ocr&hl=en
+    
+ * Lighting Controller for Workbench (mobile or PC Workshop) with Raspberry Pi
+   * Detects the hand and turn on the lights controlling the intensity with respect to its surrounding environment.
+   * Languages/Frameworks Used: OpenCV, Raspberry Pi, Python
+   * GitHub URL: https://github.com/osandadeshan/Lighting-Controller-for-Workbench
+    
+ * SAITM Robotics Challenge 2015
+   * Line following, Object detecting and Lifting robot.
+   * Electronic Equipment Used: Arduino, Sharp IR Sensor, QTR Sensor Array.
