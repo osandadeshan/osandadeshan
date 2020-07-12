@@ -39,7 +39,7 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
 ------------
 
 ### Work Experience
-* Intern Software Engineer at Mitra Innovation
+* **Intern Software Engineer at Mitra Innovation**
   * Period: 01 Aug 2016 - 30 Dec 2016
   * Duties
     * Developed a web based system for an Australian hospital by delivering solutions to meet and exceed clients' briefs.
