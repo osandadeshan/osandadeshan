@@ -1,21 +1,7 @@
 ## Osanda Deshan Nimalarathna
 #### Senior Engineer at Wiley Global Technology (PVT) Ltd | Automation Framework Developer | Open-source Contributor | Automation Consultant | SAFe® 5 Agilist
+
 ------------
-<!--
-**osandadeshan/osandadeshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 ### About Me
 A highly focused Senior Software Automation Engineer experienced in a variety of automation and engineering positions. Organized, methodical and a keen eye for detail results in solid coding and trustworthy automation scripting. Understanding client requirements and communicating the progress of projects are core values in achieving long lasting business relationships. 
@@ -118,6 +104,7 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
     
 * **MaxSoft WebDriver Manager**
   * The main reason for developing this library is to provide an easy way for quality engineers or automation engineers to spin-up any browser instance in any platform without any configurations.
+  * Publication: https://medium.com/webdrivermanager
   * GitHub URL: https://github.com/osandadeshan/maxsoft-webdriver-manager
   
 * **MaxSoft GReporter**
@@ -125,6 +112,8 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
   * Gauge is proving a detailed test execution report with all the error messages and the screenshots incorporated to the failing steps.
   * But anyhow we should manually send the test execution report to the stakeholders by mentioning the number of scenarios executed, passed count, failed count and skipped count. Also in a regression cycle, we have to send those counts as module wise figures. Further we are embedding pie charts and bar charts to that report to represents the test execution data in a high readable manner.
   * Here I have given an automated solution for this issue by developing a Java plugin for gauge to send the test execution summary to a defined audience.
+  * Here I have given an automated solution for this issue by developing a Java plugin for gauge to send the test execution summary to a defined audience.  
+  * Publication: https://medium.com/greporter
   * GitHub URL: https://github.com/osandadeshan/MaxSoft-GReporter
   
 * **MaxSoft IntelliAPI Framework for API Test Automation**
@@ -146,6 +135,7 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
     * Apache POI
     * Junit
     * Apache Maven
+  * Publication: https://medium.com/intelliapi
   * GitHub URL: https://github.com/osandadeshan/MaxSoft-IntelliAPI
 
 * **SoapUI To Gauge Plugin (API Test Execution and Report Generation Plugin)**
