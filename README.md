@@ -42,7 +42,7 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
 * Intern Software Engineer at Mitra Innovation
   * Period: 01 Aug 2016 - 30 Dec 2016
   * Duties
-   * Developed a web based system for an Australian hospital by delivering solutions to meet and exceed clients' briefs.
-     * Technologies: ASP.NET, WebAPI, MVC, Angular, HTML5, CSS
-   * Did web based test automation to support quality engineering team in order to gain ROI in the regression.
-     * Technologies: Gauge, Selenium, Maven, Java
+    * Developed a web based system for an Australian hospital by delivering solutions to meet and exceed clients' briefs.
+      * Technologies: ASP.NET, WebAPI, MVC, Angular, HTML5, CSS
+    * Did web based test automation to support quality engineering team in order to gain ROI in the regression.
+      * Technologies: Gauge, Selenium, Maven, Java
