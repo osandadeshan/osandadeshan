@@ -39,7 +39,18 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
 ------------
 
 ### Work Experience
-* **Intern Software Engineer at Mitra Innovation**
+* **Associate Software Automation Engineer – Mitra Innovation**
+  * Period: 02 Jan 2017 - 11 Aug 2017
+  * Duties
+    * Behaviour Driven Test Automation of existing client websites.
+    * Back end API Testing.
+    * Continues Integration (CI).
+    * Suggesting improvements on design and functionality.
+    * Maintaining continuity throughout all websites both technically and creatively.
+    * Providing aftercare support for clients on assessing the performance of their sites.
+      * Technologies: Gauge, Selenium, Rest Assured, Maven, Java, JMeter, Jenkins
+
+* **Intern Software Engineer – Mitra Innovation**
   * Period: 01 Aug 2016 - 30 Dec 2016
   * Duties
     * Developed a web based system for an Australian hospital by delivering solutions to meet and exceed clients' briefs.
