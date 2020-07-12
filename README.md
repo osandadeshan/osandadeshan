@@ -22,7 +22,25 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
 
 ------------
 
+### Core Skills
+* Industry aware and technically up to speed with current software development tools
+* Strong analytical skills and level headed problem solver
+* Strong Java in an object orientated environment
+* Experienced in Behaviour Driven Test Automation using Gauge Framework (Web, Android, iOS and API Automation)
+* Mobile Test Automation using Appium
+* Performance Testing using JMeter
+* Experienced in API Testing using SoapUI
+* Windows GUI based Automation using AutoIt
+* Security Testing
+* Reporting and documentation using JIRA and Confluence
+* Knowledge Apache, Linux, SQL databases and Linux
+* Version controlling using Git
+
+------------
+
 ### Work Experience
-| Period  | Company | Designation | Description |
-| ------------- | ------------- | ------------- | ------------- |
-| 01 Aug 2016 - 30 Dec 2016 | Mitra Innovation  | Intern Software Engineer | Developed a web based system for an Australian hospital by delivering solutions to meet and exceed clients' briefs. Did web based test automation to support quality engineering team in order to gain ROI in the regression |
+* Intern Software Engineer at Mitra Innovation | 01 Aug 2016 - 30 Dec 2016
+  * Developed a web based system for an Australian hospital by delivering solutions to meet and exceed clients' briefs.
+    * Technologies: ASP.NET, WebAPI, MVC, Angular, HTML5, CSS
+  * Did web based test automation to support quality engineering team in order to gain ROI in the regression.
+    * Technologies: Gauge, Selenium, Maven, Java
