@@ -39,15 +39,50 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
 ------------
 
 ### Work Experience
+* **Senior Engineer – Wiley Global Technology (Pvt) Ltd**
+  * Period: 3 Jun 2019 - Present
+  * Duties
+    * Designing and maintaining automated tests using Teasy framework for web based e-Learing systems.
+    * Continues Integration (CI).
+    * Providing trainings to other QE members on test automation for Web and API.
+    * Providing trainings to other QE members on API development using Express.
+    * Working on JavaScript initiatives.
+    * Writing technical documentations on QE confluence.
+      * Technologies: Teasy, Selenium, Rest Assured, Express, JavaScript, NodeJs, Jenkins
+      
+* **Senior Software Automation Engineer – CingleVue International (Pvt) Ltd**
+  * Period: 5 Nov 2018 - 31 May 2019
+  * Duties
+    * Designed and maintained automated tests using Robot framework for web based e-Learing system.
+    * Continues Integration (CI).
+    * Wrote technical documentations on QE confluence.
+    * Provided aftercare support for customers if required.
+      * Technologies: Robot Framework, Python, Protractor, JavaScript, TypeScript, Jenkins
+      
+* **Software Automation Engineer – Pearson Lanka**
+  * Period: 14 Aug 2017 - 2 Nov 2018
+  * Duties
+    * Developed a behaviour driven test automation framework to automate both Android and iOS mobile tests in a single project.
+    * Behaviour driven test automation for Web apllications.
+    * Back-end API testing and automation.
+    * Built Continues Integration pipeline for mobile and API test automation.
+    * Provided trainings to other QE members on behavior driven test automation for Web, Mobile and API.
+    * Mobile performance testing.
+    * Accessibility testing.
+    * API performance tetsing.
+    * Suggested improvements on design and functionality.
+    * Wrote technical documentations on QE confluence.
+      * Technologies: Gauge, Appium, Android SDK, iOS, Selenium, Rest Assured, Maven, Java, JMeter, Jenkins
+      
 * **Associate Software Automation Engineer – Mitra Innovation**
   * Period: 02 Jan 2017 - 11 Aug 2017
   * Duties
-    * Behaviour Driven Test Automation of existing client websites.
-    * Back end API Testing.
+    * Behaviour driven test automation of existing client websites.
+    * Back-end API testing and automation.
     * Continues Integration (CI).
-    * Suggesting improvements on design and functionality.
-    * Maintaining continuity throughout all websites both technically and creatively.
-    * Providing aftercare support for clients on assessing the performance of their sites.
+    * Suggested improvements on design and functionality.
+    * Maintained continuity throughout all websites both technically and creatively.
+    * Provided aftercare support for clients on assessing the performance of their sites.
       * Technologies: Gauge, Selenium, Rest Assured, Maven, Java, JMeter, Jenkins
 
 * **Intern Software Engineer – Mitra Innovation**
