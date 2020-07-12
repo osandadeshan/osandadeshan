@@ -96,46 +96,97 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
 ------------
 
 ### Personal Projects
-* MaxSoft IntelliAPI Framework for API Test Automation
+* **MaxSoft WebBot Framework for Web UI Test Automation**
+  * The main reason for developing this framework is to provide an easy way for Technical QA/Developer/Non-technical QA to perform Web UI testing.
+  * Advantages:
+    * Code free web UI automation.
+    * Generation of an executable document.
+    * Human readable tests, business language and Markdown syntax.
+    * Tests can be designed even by a non- technical person.
+    * Generate a HTML report with test details for every test execution.
+    * Parallel execution.
+    * Live execution report.
+    * Automated emails for test execution summary with graphical representations.
+  * Technologies: 
+    * Selenium
+    * Gauge Framework
+    * Java
+    * Apache POI
+    * Junit
+    * Apache Maven
+  * GitHub URL: https://github.com/osandadeshan/MaxSoft-WebBot  
+    
+* **MaxSoft WebDriver Manager**
+  * The main reason for developing this library is to provide an easy way for quality engineers or automation engineers to spin-up any browser instance in any platform without any configurations.
+  * GitHub URL: https://github.com/osandadeshan/maxsoft-webdriver-manager
+  
+* **MaxSoft GReporter**
+  * In testing perspective, the test execution report is a vital document where the stakeholders can get an idea of the project health.
+  * Gauge is proving a detailed test execution report with all the error messages and the screenshots incorporated to the failing steps.
+  * But anyhow we should manually send the test execution report to the stakeholders by mentioning the number of scenarios executed, passed count, failed count and skipped count. Also in a regression cycle, we have to send those counts as module wise figures. Further we are embedding pie charts and bar charts to that report to represents the test execution data in a high readable manner.
+  * Here I have given an automated solution for this issue by developing a Java plugin for gauge to send the test execution summary to a defined audience.
+  * GitHub URL: https://github.com/osandadeshan/MaxSoft-GReporter
+  
+* **MaxSoft IntelliAPI Framework for API Test Automation**
   * The main reason for developing this framework is to provide an easy way for Technical QA/Developer/Non-technical QA to perform API testing.
   * Advantages:
-     1. Generation of an executable document.
-     2. Human readable tests, business language and Mark-down syntax.
-     3. Tests can be designed even by a non- technical person.
-     4. Ability to validate backend databases.
-     5. Generate a HTML report with test details for every test execution.
-     6. Parallel execution.
-     7. Live execution report.
-     8. Automated emails for test execution summary with graphical representations.
+    * Code free API automation.
+    * Generation of an executable document.
+    * Human readable tests, business language and Mark-down syntax.
+    * Tests can be designed even by a non- technical person.
+    * Ability to validate backend databases.
+    * Generate a HTML report with test details for every test execution.
+    * Parallel execution.
+    * Live execution report.
+    * Automated emails for test execution summary with graphical representations.
   * Technologies: 
-     1. Java
-     2. Gauge Framework
-     3. Rest Assured
-     4. Apache POI
-     5. Junit
-     6. Apache Maven
+    * Java
+    * Gauge Framework
+    * Rest Assured
+    * Apache POI
+    * Junit
+    * Apache Maven
+  * GitHub URL: https://github.com/osandadeshan/MaxSoft-IntelliAPI
 
-* SoapUI To Gauge Plugin (API Test Execution and Report Generation Plugin)
+* **SoapUI To Gauge Plugin (API Test Execution and Report Generation Plugin)**
   * Execute preferred test cases of a test suite in SoapUI and generate a detailed report which can be customized
-  * Languages/Frameworks Used: Java, SoapUI, Gauge
+  * Technologies: 
+     * Java
+     * SoapUI
+     * Gauge
   * GitHub URL: https://github.com/osandadeshan/SoapUI-To-Gauge-Plugin
 
-* MySight – A new vision for blind (Final year research project)
+* **MySight – A new vision for blind (Final year research project)**
    * An android app for blind people to read printed materials such as books in a public library or shopping bills
-   * Languages/Frameworks Used: Java, Android Studio, OCR, OpenCV
+   * Technologies: 
+     * Java
+     * Android Studio
+     * OCR
+     * OpenCV
+   * Publication: http://repository.kln.ac.lk/handle/123456789/15632  
    * GitHub URL: https://github.com/osandadeshan/mysight
     
-* Text-Extractor
+* **Text-Extractor**
    * Extract text in physical documents
-   * Languages/Frameworks Used: Java, Android, OCR, Tesseract
+   * Technologies: 
+     * Java
+     * Android
+     * OCR
+     * Tesseract
    * GitHub URL: https://github.com/osandadeshan/textextractor
    * Google PlayStore: https://play.google.com/store/apps/details?id=com.osanda.ocr&hl=en
     
- * Lighting Controller for Workbench (mobile or PC Workshop) with Raspberry Pi
+ * **Lighting Controller for Workbench (mobile or PC Workshop) with Raspberry Pi**
    * Detects the hand and turn on the lights controlling the intensity with respect to its surrounding environment.
-   * Languages/Frameworks Used: OpenCV, Raspberry Pi, Python
+   * Technologies: 
+     * OpenCV
+     * Raspberry Pi
+     * Python
    * GitHub URL: https://github.com/osandadeshan/Lighting-Controller-for-Workbench
     
- * SAITM Robotics Challenge 2015
+ * **SAITM Robotics Challenge 2015**
    * Line following, Object detecting and Lifting robot.
-   * Electronic Equipment Used: Arduino, Sharp IR Sensor, QTR Sensor Array.
+   * Electronic Equipment Used: 
+     * Arduino
+     * Sharp IR Sensor
+     * QTR Sensor Array
