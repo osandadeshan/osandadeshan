@@ -167,16 +167,94 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
    * Google PlayStore: https://play.google.com/store/apps/details?id=com.osanda.ocr&hl=en
     
  * **Lighting Controller for Workbench (mobile or PC Workshop) with Raspberry Pi**
-   * Detects the hand and turn on the lights controlling the intensity with respect to its surrounding environment.
+   * A light control system for workbench (mobile or PC Workshop) which detects the hand of technician and turn on the lights where it needed and light intensity also controlled according to the surrounding light condition.
    * Technologies: 
-     * OpenCV
-     * Raspberry Pi
+     * OpenCV 3
+     * Raspberry Pi 2
      * Python
    * GitHub URL: https://github.com/osandadeshan/Lighting-Controller-for-Workbench
-    
- * **SAITM Robotics Challenge 2015**
-   * Line following, Object detecting and Lifting robot.
+     
+ * **Boti V2.0 ( Line following, object detect & carrying ROBOT)**
+   * Robot capable of line following, object detection and object carrying prepared for the SAITM Robotics Challenge 2015.
    * Electronic Equipment Used: 
      * Arduino
      * Sharp IR Sensor
      * QTR Sensor Array
+    
+ * **Online QDesk (An online learning website) For UWU Students (2nd Year Mini Project)**
+   * This website will serve as a self-studying, self-revising and self-evaluating website. Through this website, we allow students to access all past papers of CST degree program and will make available online quizzes for each course. Hence, our students can have a 24/7 exposure to course related questions and past papers.
+   * Technologies: 
+     * JSP
+     * HTML
+     * CSS
+      
+ * **I-Mart Selling Application**
+   * An application developed by myself to computerized my online selling details.
+   * An application to store the orders of the customers, delivered items, along with the all details that are needed for my store.
+   * Technologies: 
+     * Visual Studio 2008
+     * VB.NET
+     * Microsoft Access      
+
+------------
+
+### Researches
+* **eye4U – An Effective Mobile Based Solution for the Visually Impaired (International Research Symposium at Uva Wellassa University – 20 th Jan 2017)**
+   * Publication: http://repository.kln.ac.lk/handle/123456789/15632
+* **MySight – A New Vision for the Blind Community(Kelaniya International Conference on Advances in Computing and Technology – 25 th Nov 2016)**
+
+------------
+
+### Honors & Awards
+ * **1st Rank in Test Automation University**
+   * Date: May 1, 2020  
+   * Issuer: Test Automation University (https://testautomationu.applitools.com)
+   * URL: https://testautomationu.applitools.com/tau100.html
+
+ * **1st Rank and Gold badge for "Java" in HackerRank**
+   * Date: May 2020
+   * Issuer: HackerRank (https://www.hackerrank.com)
+   * Leaderboard: https://www.hackerrank.com/leaderboard?filter=osandadeshan&filter_on=hacker&limit=5000&page=1&track=java&type=practice
+   * Badges: https://www.hackerrank.com/osandadeshan?hr_r=1
+
+ * **Gold badge for "JavaScript" in HackerRank**
+   * Date: May 2020  
+   * Issuer: HackerRank (https://www.hackerrank.com)
+   * Badges: https://www.hackerrank.com/osandadeshan?hr_r=1
+
+ * **Gold badge for "Problem Solving" in HackerRank**
+   * Date: May 2020
+   * Issuer: HackerRank (https://www.hackerrank.com)
+   * Badges: https://www.hackerrank.com/osandadeshan?hr_r=1
+
+ * **1st Runners Up in Deft Coders Hackathon 2015**
+   * Date: Feb 2015
+   * Issuer: Uva Wellassa University
+
+------------
+
+### Certifications
+ * **Certified SAFe® 5 Agilist**
+   * Issuing Authority: Scaled Agile Inc
+   * Issued Date: Jul 2017
+   * URL: https://www.sl-stb.org/exam/results.html
+
+ * **Certified ISTQB® CTFL**
+   * Issuing Authority: ISTQB - International Software Testing Qualifications Board
+   * Issued Date: Jul 2020
+   * Certificate: https://www.youracclaim.com/badges/6deb4350-1fc3-4758-a1be-ecfdb04bf17a/linked_in_profile
+
+------------
+
+### Education
+ * **Uva Wellassa University**
+   * Period: 2013 – 2017
+   * Degree: BSc in Computer Science and Technology (Sp.)
+ * **IDM - Galle**
+   * Period: 2011 – 2012
+   * Course: Certificate Course in AutoCAD
+ * **G/Dharmasoka College**
+   * Period: 1998 – 2011
+   * A/L: GIT (A), General English (A), Com. Maths (A), Physics (C), Chemistry (C) 
+   * O/L: 9As
+
