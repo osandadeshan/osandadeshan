@@ -105,12 +105,12 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
     * Apache POI
     * Junit
     * Apache Maven
-  * [GitHub URL](https://github.com/osandadeshan/MaxSoft-WebBot)
+  * [GitHub Project](https://github.com/osandadeshan/MaxSoft-WebBot)
     
 * **MaxSoft WebDriver Manager**
   * The main reason for developing this library is to provide an easy way for quality engineers or automation engineers to spin-up any browser instance in any platform without any configurations.
-  * Publication: https://medium.com/webdrivermanager
-  * GitHub URL: https://github.com/osandadeshan/maxsoft-webdriver-manager
+  * [Publication](https://medium.com/webdrivermanager)
+  * [GitHub Project](https://github.com/osandadeshan/maxsoft-webdriver-manager)
   
 * **MaxSoft GReporter**
   * In testing perspective, the test execution report is a vital document where the stakeholders can get an idea of the project health.
@@ -118,8 +118,8 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
   * But anyhow we should manually send the test execution report to the stakeholders by mentioning the number of scenarios executed, passed count, failed count and skipped count. Also in a regression cycle, we have to send those counts as module wise figures. Further we are embedding pie charts and bar charts to that report to represents the test execution data in a high readable manner.
   * Here I have given an automated solution for this issue by developing a Java plugin for gauge to send the test execution summary to a defined audience.
   * Here I have given an automated solution for this issue by developing a Java plugin for gauge to send the test execution summary to a defined audience.  
-  * Publication: https://medium.com/greporter
-  * GitHub URL: https://github.com/osandadeshan/MaxSoft-GReporter
+  * [Publication](https://medium.com/greporter)
+  * [GitHub Project](https://github.com/osandadeshan/MaxSoft-GReporter)
   
 * **MaxSoft IntelliAPI Framework for API Test Automation**
   * The main reason for developing this framework is to provide an easy way for Technical QA/Developer/Non-technical QA to perform API testing.
@@ -140,8 +140,8 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
     * Apache POI
     * Junit
     * Apache Maven
-  * Publication: https://medium.com/intelliapi
-  * GitHub URL: https://github.com/osandadeshan/MaxSoft-IntelliAPI
+  * [Publication](https://medium.com/intelliapi)
+  * [GitHub Project](https://github.com/osandadeshan/MaxSoft-IntelliAPI)
 
 * **SoapUI To Gauge Plugin (API Test Execution and Report Generation Plugin)**
   * Execute preferred test cases of a test suite in SoapUI and generate a detailed report which can be customized
@@ -149,7 +149,7 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
      * Java
      * SoapUI
      * Gauge
-  * GitHub URL: https://github.com/osandadeshan/SoapUI-To-Gauge-Plugin
+  * [GitHub Project](https://github.com/osandadeshan/SoapUI-To-Gauge-Plugin)
 
 * **MySight – A new vision for blind (Final year research project)**
    * An android app for blind people to read printed materials such as books in a public library or shopping bills
@@ -158,8 +158,8 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
      * Android Studio
      * OCR
      * OpenCV
-   * Publication: http://repository.kln.ac.lk/handle/123456789/15632  
-   * GitHub URL: https://github.com/osandadeshan/mysight
+   * [Publication](http://repository.kln.ac.lk/handle/123456789/15632)
+   * [GitHub Project](https://github.com/osandadeshan/mysight)
     
 * **Text-Extractor**
    * Extract text in physical documents
@@ -168,8 +168,8 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
      * Android
      * OCR
      * Tesseract
-   * GitHub URL: https://github.com/osandadeshan/textextractor
-   * Google PlayStore: https://play.google.com/store/apps/details?id=com.osanda.ocr&hl=en
+   * [GitHub Project](https://github.com/osandadeshan/textextractor)
+   * [Google PlayStore](https://play.google.com/store/apps/details?id=com.osanda.ocr&hl=en)
     
  * **Lighting Controller for Workbench (mobile or PC Workshop) with Raspberry Pi**
    * A light control system for workbench (mobile or PC Workshop) which detects the hand of technician and turn on the lights where it needed and light intensity also controlled according to the surrounding light condition.
@@ -177,7 +177,7 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
      * OpenCV 3
      * Raspberry Pi 2
      * Python
-   * GitHub URL: https://github.com/osandadeshan/Lighting-Controller-for-Workbench
+   * [GitHub Project](https://github.com/osandadeshan/Lighting-Controller-for-Workbench)
      
  * **Boti V2.0 ( Line following, object detect & carrying ROBOT)**
    * Robot capable of line following, object detection and object carrying prepared for the SAITM Robotics Challenge 2015.
@@ -205,32 +205,32 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
 
 ### Researches
 * **eye4U – An Effective Mobile Based Solution for the Visually Impaired (International Research Symposium at Uva Wellassa University – 20 th Jan 2017)**
-   * Publication: http://repository.kln.ac.lk/handle/123456789/15632
 * **MySight – A New Vision for the Blind Community(Kelaniya International Conference on Advances in Computing and Technology – 25 th Nov 2016)**
+    * [Publication](http://repository.kln.ac.lk/handle/123456789/15632)
 
 ------------
 
 ### Honors & Awards
  * **1st Rank in Test Automation University**
    * Date: May 1, 2020  
-   * Issuer: Test Automation University (https://testautomationu.applitools.com)
-   * URL: https://testautomationu.applitools.com/tau100.html
+   * Issuer: [Test Automation University](https://testautomationu.applitools.com)
+   * [Leaderboard](https://testautomationu.applitools.com/tau100.html)
 
  * **1st Rank and Gold badge for "Java" in HackerRank**
    * Date: May 2020
-   * Issuer: HackerRank (https://www.hackerrank.com)
-   * Leaderboard: https://www.hackerrank.com/leaderboard?filter=osandadeshan&filter_on=hacker&limit=5000&page=1&track=java&type=practice
-   * Badges: https://www.hackerrank.com/osandadeshan?hr_r=1
+   * Issuer: [HackerRank](https://www.hackerrank.com)
+   * [Leaderboard](https://www.hackerrank.com/leaderboard?filter=osandadeshan&filter_on=hacker&limit=5000&page=1&track=java&type=practice)
+   * [Badges](https://www.hackerrank.com/osandadeshan?hr_r=1)
 
  * **Gold badge for "JavaScript" in HackerRank**
    * Date: May 2020  
-   * Issuer: HackerRank (https://www.hackerrank.com)
-   * Badges: https://www.hackerrank.com/osandadeshan?hr_r=1
+   * Issuer: [HackerRank](https://www.hackerrank.com)
+   * [Badges](https://www.hackerrank.com/osandadeshan?hr_r=1)
 
  * **Gold badge for "Problem Solving" in HackerRank**
    * Date: May 2020
-   * Issuer: HackerRank (https://www.hackerrank.com)
-   * Badges: https://www.hackerrank.com/osandadeshan?hr_r=1
+   * Issuer: [HackerRank](https://www.hackerrank.com)
+   * [Badges](https://www.hackerrank.com/osandadeshan?hr_r=1)
 
  * **1st Runners Up in Deft Coders Hackathon 2015**
    * Date: Feb 2015
@@ -240,14 +240,14 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
 
 ### Certifications
  * **Certified SAFe® 5 Agilist**
-   * Issuing Authority: Scaled Agile Inc
-   * Issued Date: Jul 2017
-   * URL: https://www.sl-stb.org/exam/results.html
-
+   * Issuing Authority: [Scaled Agile Inc](https://www.scaledagile.com/)
+   * Issued Date: Jul 2020   
+   * [e-Certificate](https://www.youracclaim.com/badges/6deb4350-1fc3-4758-a1be-ecfdb04bf17a/linked_in_profile)
+   
  * **Certified ISTQB® CTFL**
-   * Issuing Authority: ISTQB - International Software Testing Qualifications Board
-   * Issued Date: Jul 2020
-   * Certificate: https://www.youracclaim.com/badges/6deb4350-1fc3-4758-a1be-ecfdb04bf17a/linked_in_profile
+   * Issuing Authority: [ISTQB - International Software Testing Qualifications Board](https://www.istqb.org/)
+   * Issued Date: Jul 2017
+   * [Passed List](https://www.sl-stb.org/exam/results.html)
 
 ------------
 
