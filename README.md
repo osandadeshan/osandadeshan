@@ -12,15 +12,20 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
 * Industry aware and technically up to speed with current software development tools.
 * Strong analytical skills and level headed problem solver.
 * Strong Java in an object orientated environment.
-* Experienced in Behaviour Driven Test Automation using Gauge Framework (Web, Android, iOS and API Automation).
-* Mobile Test Automation using Appium.
-* Performance Testing using JMeter.
-* Experienced in API Testing using SoapUI.
-* Windows GUI based Automation using AutoIt.
-* Security Testing.
-* Reporting and documentation using JIRA and Confluence.
-* Knowledge Apache, Linux, SQL databases and Linux.
+* Experienced in behaviour driven test automation using Gauge Framework (Web, Android, iOS and API automation).
+* Web test automation (Selenium/Taiko).
+* API test automation using RestAssured.
+* Mobile test automation using Appium.
+* Performance testing using JMeter.
+* Experienced in API testing using SoapUI.
+* Continuos integration and deployment using Jenkins.
+* API development using ExpressJs.
+* Visual test automation using Applitools.
+* Windows GUI based automation using AutoIt.
+* Security testing.
 * Version controlling using Git.
+* Reporting and documentation using JIRA and Confluence.
+* Knowledge in Apache, SQL databases and Linux.
 
 ------------
 
