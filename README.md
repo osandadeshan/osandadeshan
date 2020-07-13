@@ -105,7 +105,7 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
     * Apache POI
     * Junit
     * Apache Maven
-  * GitHub URL: https://github.com/osandadeshan/MaxSoft-WebBot  
+  * [GitHub URL](https://github.com/osandadeshan/MaxSoft-WebBot)
     
 * **MaxSoft WebDriver Manager**
   * The main reason for developing this library is to provide an easy way for quality engineers or automation engineers to spin-up any browser instance in any platform without any configurations.
