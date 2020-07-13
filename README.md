@@ -260,6 +260,6 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
    * Course: Certificate Course in AutoCAD
  * **G/Dharmasoka College**
    * Period: 1998 – 2011
-   * A/L: GIT (A), General English (A), Com. Maths (A), Physics (C), Chemistry (C) 
+   * A/L: General Information Technology (A), General English (A), Combined Maths (A), Physics (C), Chemistry (C) 
    * O/L: 9As
 
