@@ -1,5 +1,5 @@
 ## Osanda Deshan Nimalarathna
-#### Senior Engineer at Wiley Global Technology (PVT) Ltd | Automation Framework Developer | Open-source Contributor | Automation Consultant | SAFe® 5 Agilist
+#### Senior Engineer at Wiley Global Technology (PVT) Ltd | Certified RPA Solution Architect | Automation Framework Developer | Open-source Contributor | Automation Consultant | SAFe® 5 Agilist
 
 ------------
 
@@ -239,15 +239,20 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
 ------------
 
 ### Certifications
- * **Certified SAFe® 5 Agilist**
-   * Issuing Authority: [Scaled Agile Inc](https://www.scaledagile.com/)
-   * Issued Date: Jul 2020   
-   * [e-Certificate](https://www.youracclaim.com/badges/6deb4350-1fc3-4758-a1be-ecfdb04bf17a/linked_in_profile)
+ * **Certified RPA Solution Architect**
+   * Issuing Authority: [Automation Anywhere](https://www.automationanywhere.com)
+   * Issued Date: Aug 2020
+   * [e-Certificate](https://certificates.automationanywhere.com/f2a97613-6e23-4fdf-9446-79df82ed5a5b)
    
  * **Certified ISTQB® CTFL**
    * Issuing Authority: [ISTQB - International Software Testing Qualifications Board](https://www.istqb.org/)
    * Issued Date: Jul 2017
    * [Passed List](https://www.sl-stb.org/exam/results.html)
+   
+ * **Certified SAFe® 5 Agilist**
+   * Issuing Authority: [Scaled Agile Inc](https://www.scaledagile.com/)
+   * Issued Date: Jul 2020   
+   * [e-Certificate](https://www.youracclaim.com/badges/6deb4350-1fc3-4758-a1be-ecfdb04bf17a/linked_in_profile)
 
 ------------
 
