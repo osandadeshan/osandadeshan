@@ -1,5 +1,5 @@
 ## Osanda Deshan Nimalarathna
-#### Senior Engineer at Wiley Global Technology (PVT) Ltd | Certified RPA Solution Architect | Automation Framework Developer | Open-source Contributor | Automation Consultant | SAFe® 5 Agilist
+#### Senior Engineer at Wiley Global Technology (PVT) Ltd | RPA Solution Architect | Automation Framework Developer | Open-source Contributor | Automation Consultant | SAFe® 5 Agilist
 
 ------------
 
