@@ -87,6 +87,17 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
 ------------
 
 ### Personal Projects
+* **MaxSoft API Health Checker**
+  * The main reason for developing this dashboard is to see the real time health of the backend services integrated to any project.
+  * Advantages:
+    * Easy to find unavailable backend services
+    * No need to worry about the CORS issue
+    * Real-time updating the services status in every 30 seconds
+    * Easy to integrate services to see the health
+    * Both Web and Mobile friendly UI
+    * Free and open-source
+  * [GitHub Project](https://github.com/osandadeshan/api-health-checker-dashboard)
+
 * **MaxSoft WebBot Framework for Web UI Test Automation**
   * The main reason for developing this framework is to provide an easy way for Technical QA/Developer/Non-technical QA to perform Web UI testing.
   * Advantages:
