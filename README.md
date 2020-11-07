@@ -96,6 +96,7 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
     * Easy to integrate services to see the health
     * Both Web and Mobile friendly UI
     * Free and open-source
+  * [Publication](https://medium.com/api-health-checker)
   * [GitHub Project](https://github.com/osandadeshan/api-health-checker-dashboard)
 
 * **MaxSoft WebBot Framework for Web UI Test Automation**
