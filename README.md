@@ -88,7 +88,7 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
 
 ### Personal Projects
 * **MaxSoft API Health Checker**
-  * The main reason for developing this dashboard is to see the real time health of the backend services integrated to any project.
+  * The main reason for developing this dashboard is to see the real time health of the backend services integrated in any project.
   * Advantages:
     * Easy to find unavailable backend services
     * No need to worry about the CORS issue
