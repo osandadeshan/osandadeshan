@@ -27,45 +27,19 @@ A highly focused Senior Software Automation Engineer experienced in a variety of
 ------------
 
 ### Honors & Awards
- * **1st Rank in Test Automation University**
-   * Date: May 1, 2020  
-   * Issuer: [Test Automation University](https://testautomationu.applitools.com)
-   * [Leaderboard](https://testautomationu.applitools.com/tau100.html)
-
- * **1st Rank and Gold badge for "Java" in HackerRank**
-   * Date: May 2020
-   * Issuer: [HackerRank](https://www.hackerrank.com)
-   * [Leaderboard](https://www.hackerrank.com/leaderboard?filter=osandadeshan&filter_on=hacker&limit=5000&page=1&track=java&type=practice)
-   * [Badges](https://www.hackerrank.com/osandadeshan?hr_r=1)
-
- * **Gold badge for "JavaScript" in HackerRank**
-   * Date: May 2020  
-   * Issuer: [HackerRank](https://www.hackerrank.com)
-   * [Badges](https://www.hackerrank.com/osandadeshan?hr_r=1)
-
- * **Gold badge for "Problem Solving" in HackerRank**
-   * Date: May 2020
-   * Issuer: [HackerRank](https://www.hackerrank.com)
-   * [Badges](https://www.hackerrank.com/osandadeshan?hr_r=1)
-
- * **1st Runners Up in Deft Coders Hackathon 2015**
-   * Date: Feb 2015
-   * Issuer: Uva Wellassa University
+| Honor/Award | Issuer | Link | Date |
+| ------------ | ------------ | ------------ | ------------ |
+| 1st Rank in Test Automation University | [Test Automation University](https://testautomationu.applitools.com "Test Automation University") | [Top 100](https://testautomationu.applitools.com/tau100.html "Top 100") | May 1, 2020 |
+| 1st Rank and Gold badge for "Java" in HackerRank | [HackerRank](https://www.hackerrank.com/ "HackerRank") | [Leaderboard](https://www.hackerrank.com/leaderboard?filter=osandadeshan&filter_on=hacker&limit=5000&page=1&track=java&type=practice "Leaderboard") | May 21, 2020 |
+| Gold badge for "JavaScript" in HackerRank | [HackerRank](https://www.hackerrank.com/ "HackerRank") | [Badge](https://www.hackerrank.com/osandadeshan?hr_r=1) | June 1, 2020 |
+| Gold badge for "Problem Solving" in HackerRank | [HackerRank](https://www.hackerrank.com/ "HackerRank") | [Badge](https://www.hackerrank.com/osandadeshan?hr_r=1) | July 28, 2020 |
+| 1st Runners Up in Deft Coders Hackathon 2015 | [Computer Society of Uva Wellassa University](http://www.uwu.ac.lk/ "Computer Society of Uva Wellassa University") |   | 13th Feb 2015 |
 
 ------------
 
 ### Certifications
- * **Certified RPA Solution Architect**
-   * Issuing Authority: [Automation Anywhere](https://www.automationanywhere.com)
-   * Issued Date: Aug 2020
-   * [e-Certificate](https://certificates.automationanywhere.com/f2a97613-6e23-4fdf-9446-79df82ed5a5b)
-   
- * **Certified ISTQB® CTFL**
-   * Issuing Authority: [ISTQB - International Software Testing Qualifications Board](https://www.istqb.org/)
-   * Issued Date: Jul 2017
-   * [Passed List](https://www.sl-stb.org/exam/results.html)
-   
- * **Certified SAFe® 5 Agilist**
-   * Issuing Authority: [Scaled Agile Inc](https://www.scaledagile.com/)
-   * Issued Date: Jul 2020   
-   * [e-Certificate](https://www.youracclaim.com/badges/6deb4350-1fc3-4758-a1be-ecfdb04bf17a/linked_in_profile)
+ | Certification | Issuer | Link | Issued Date |
+| ------------ | ------------ | ------------ | ------------ |
+| Certified RPA Solution Architect | [Automation Anywhere](https://www.automationanywhere.com/) | [Badge](https://certificates.automationanywhere.com/f2a97613-6e23-4fdf-9446-79df82ed5a5b "Badge") | Aug 12, 2020 |
+| Certified SAFe® 5 Agilist | [Scaled Agile Inc](https://www.scaledagile.com/ "Scaled Agile Inc") | [Badge](https://www.youracclaim.com/badges/6deb4350-1fc3-4758-a1be-ecfdb04bf17a/linked_in_profile "Badge") | Jul 3, 2020 |
+| Certified ISTQB® CTFL | [ISTQB - International Software Testing Qualifications Board](https://www.istqb.org/ "ISTQB - International Software Testing Qualifications Board") | [Passed List](https://www.sl-stb.org/exam/results.html "Passed List") | Jul 17, 2017 |
