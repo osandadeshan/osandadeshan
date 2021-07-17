@@ -41,6 +41,7 @@ A highly focused Associate Technical Specialist experienced in a variety of auto
  | Certification | Issuer | Link | Issued Date |
 | ------------ | ------------ | ------------ | ------------ |
 | Certified RPA Solution Architect | [Automation Anywhere](https://www.automationanywhere.com/) | [Badge](https://certificates.automationanywhere.com/f2a97613-6e23-4fdf-9446-79df82ed5a5b "Badge") | Aug 12, 2020 |
+| Gremlin Certified Chaos Engineering Practitioner | [Gremlin](https://www.gremlin.com/) | [Certificate](https://www.credential.net/92812c7b-decd-4e82-90e1-d654f870394e "Certificate") | Jun 20, 2021 |
 | Certified SAFe® 5 Agile Software Engineer | [Scaled Agile Inc](https://www.scaledagile.com/ "Scaled Agile Inc") | [Badge](https://www.youracclaim.com/badges/2682aa4d-51c2-4db0-b7ea-080f6174ce0f "Badge") | Feb 27, 2021 |
 | Certified SAFe® 5 Agilist | [Scaled Agile Inc](https://www.scaledagile.com/ "Scaled Agile Inc") | [Badge](https://www.youracclaim.com/badges/6deb4350-1fc3-4758-a1be-ecfdb04bf17a/linked_in_profile "Badge") | Jul 3, 2020 |
 | Certified ISTQB® CTFL | [ISTQB - International Software Testing Qualifications Board](https://www.istqb.org/ "ISTQB - International Software Testing Qualifications Board") | [Passed List](https://www.sl-stb.org/exam/results.html "Passed List") | Jul 17, 2017 |
