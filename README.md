@@ -114,7 +114,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Java 				2 hrs 13 mins   ██████████████▒░░░░░░░░░░   41.69 %
+Java         2 hrs 13 mins   ██████████████▒░░░░░░░░░░   41.69 %
 JavaScript   1 hr 21 mins   ████████▓░░░░░░░░░░░░░░░░   25.39 %
 RPA          1 hr 15 mins   ███████▓░░░░░░░░░░░░░░░░░   23.51 %
 Docker            30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   09.41 %
