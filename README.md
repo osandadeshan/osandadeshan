@@ -32,6 +32,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💼 Any freelance work? Please do reach via [email](mailto:osanda.deshan@gmail.com). 😊
 - 💬 Ask me about anything, I am happy to help.
+<br />
 
 ## 🛠️ Languages and Tools:
 
