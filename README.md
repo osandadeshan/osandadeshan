@@ -96,7 +96,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 | SAFe® 5 Agile Software Engineer | [Scaled Agile Inc](https://www.scaledagile.com/ "Scaled Agile Inc") | [Badge](https://www.youracclaim.com/badges/2682aa4d-51c2-4db0-b7ea-080f6174ce0f "Badge") | Feb 27, 2021 |
 | SAFe® 5 Agilist | [Scaled Agile Inc](https://www.scaledagile.com/ "Scaled Agile Inc") | [Badge](https://www.youracclaim.com/badges/6deb4350-1fc3-4758-a1be-ecfdb04bf17a/linked_in_profile "Badge") | Jul 3, 2020 |
 | ISTQB® CTFL | [ISTQB - International Software Testing Qualifications Board](https://www.istqb.org/ "ISTQB - International Software Testing Qualifications Board") | [Passed List](https://www.sl-stb.org/exam/results.html "Passed List") | Jul 17, 2017 |
-
 <hr>
 
 ## 🏆 Honors and Awards:
@@ -108,7 +107,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 | Gold badge for "JavaScript" in HackerRank | [HackerRank](https://www.hackerrank.com/ "HackerRank") | [Badge](https://www.hackerrank.com/osandadeshan?hr_r=1) | June 1, 2020 |
 | Gold badge for "Problem Solving" in HackerRank | [HackerRank](https://www.hackerrank.com/ "HackerRank") | [Badge](https://www.hackerrank.com/osandadeshan?hr_r=1) | July 28, 2020 |
 | 1st Runners Up in Deft Coders Hackathon 2015 | [Computer Society of Uva Wellassa University](http://www.uwu.ac.lk/ "Computer Society of Uva Wellassa University") |   | 13th Feb 2015 |
-
 <hr>
 
 ## ⏳ In This Week, I Spent My Time On:
@@ -123,6 +121,7 @@ Docker             		30 mins   ███░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+<hr>
 
 ## ✍🏻 My Publications:
 
@@ -147,5 +146,6 @@ Docker             		30 mins   ███░░░░░░░░░░░░░�
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osandadeshan&layout=compact&theme=gotham" alt="osandadeshan" />
 <p>
+<hr>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people.</b> If you want to say <b>Hi, I will be happy to meet you!</b> 😃</em>
