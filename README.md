@@ -62,7 +62,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </p>
 <hr>
 
-### 🚧 Core Skills:
+## 🚧 Core Skills:
 
 <!-- TODO-IST:START -->
 
@@ -84,7 +84,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!-- TODO-IST:END -->
 <hr>
 
-### 🥇 Certifications:
+## 🥇 Certifications:
 | Certification | Issuer | Link | Issued Date |
 | ------------ | ------------ | ------------ | ------------ |
 | RPA Solution Architect | [Automation Anywhere](https://www.automationanywhere.com/) | [Badge](https://certificates.automationanywhere.com/f2a97613-6e23-4fdf-9446-79df82ed5a5b "Badge") | Aug 12, 2020 |
@@ -99,7 +99,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <hr>
 
-### 🏆 Honors and Awards:
+## 🏆 Honors and Awards:
 
 | Honor/Award | Issuer | Link | Date |
 | ------------ | ------------ | ------------ | ------------ |
@@ -124,7 +124,7 @@ Docker             		30 mins   ███░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### ✍🏻 My Publications:
+## ✍🏻 My Publications:
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -140,7 +140,7 @@ Docker             		30 mins   ███░░░░░░░░░░░░░�
 <!-- BLOG-POST-LIST:END -->
 <hr>
 
-### 📈 My GitHub Stats:
+## 📈 My GitHub Stats:
 
 <p  align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=osandadeshan&show_icons=true&theme=gotham" alt="osandadeshan" />
