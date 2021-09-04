@@ -9,7 +9,6 @@
 <a href="https://osandadeshan.medium.com/">
   <img align="left" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
-<br />
 <a href="https://github.com/osandadeshan/">
   <img align="left" src="https://komarev.com/ghpvc/?username=osandadeshan" alt="page views" />
 </a>
@@ -19,7 +18,6 @@
 <a href="https://github.com/osandadeshan?tab=stars">
   <img alt="GitHub followers" src="https://img.shields.io/github/stars/osandadeshan?color=yellow&logo=github">
 </a>
-<br />
 <br />
 
 ## 👨‍💻 About Me:
