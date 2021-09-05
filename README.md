@@ -91,6 +91,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 | Bot Developer Enterprise | [Automation Anywhere](https://www.automationanywhere.com/) | [Badge](https://certificates.automationanywhere.com/f37c8359-5da9-433c-a224-fe3a3faf1c42 "Badge") | Aug 15, 2021 |
 | Bot Developer (Automation 360) | [Automation Anywhere](https://www.automationanywhere.com/) | [Badge](https://certificates.automationanywhere.com/67fb31cb-2f22-4157-8f7a-93b2d6c6d2dc "Badge") | Aug 23, 2021 |
 | IQ Bot Developer | [Automation Anywhere](https://www.automationanywhere.com/) | [Badge](https://certificates.automationanywhere.com/2fb63b0e-af37-4f37-bc7e-0dfae0b4477f "Badge") | Aug 15, 2021 |
+| Secure Bot Developer | [Automation Anywhere](https://www.automationanywhere.com/) | [Badge](https://certificates.automationanywhere.com/e78aaf13-f62c-436e-bfd4-9bd7e643de40 "Badge") | Sep 05, 2021 |
 |HackerRank Java | [HackerRank](https://www.hackerrank.com/) | [Certificate](https://www.hackerrank.com/certificates/3fbf0403009f "Certificate") | Aug 10, 2021 |
 | Gremlin Certified Chaos Engineering Practitioner | [Gremlin](https://www.gremlin.com/) | [Certificate](https://www.credential.net/92812c7b-decd-4e82-90e1-d654f870394e "Certificate") | Jun 20, 2021 |
 | SAFe® 5 Agile Software Engineer | [Scaled Agile Inc](https://www.scaledagile.com/ "Scaled Agile Inc") | [Badge](https://www.youracclaim.com/badges/2682aa4d-51c2-4db0-b7ea-080f6174ce0f "Badge") | Feb 27, 2021 |
