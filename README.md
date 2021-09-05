@@ -109,20 +109,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 | 1st Runners Up in Deft Coders Hackathon 2015 | [Computer Society of Uva Wellassa University](http://www.uwu.ac.lk/ "Computer Society of Uva Wellassa University") |   | 13th Feb 2015 |
 <hr>
 
-## ⏳ In This Week, I Spent My Time On:
-
-<!--START_SECTION:waka-->
-
-```text
-Java         2 h 13 mins   ██████████████▒░░░░░░░░░░   41.69 %
-JavaScript   1 h 21 mins   ████████▓░░░░░░░░░░░░░░░░   25.39 %
-RPA          1 h 15 mins   ███████▓░░░░░░░░░░░░░░░░░   23.51 %
-Docker           30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-```
-
-<!--END_SECTION:waka-->
-<hr>
-
 ## ✍🏻 My Publications:
 
 <!-- BLOG-POST-LIST:START -->
@@ -137,6 +123,20 @@ Docker           30 mins   ███░░░░░░░░░░░░░░�
 - [eye4U – An Effective Mobile Based Solution for the Visually Impaired]()
 - [MySight – A New Vision for the Blind Community](http://repository.kln.ac.lk/handle/123456789/15632)
 <!-- BLOG-POST-LIST:END -->
+<hr>
+
+## ⏳ In This Week, I Spent My Time On:
+
+<!--START_SECTION:waka-->
+
+```text
+Java         2 h 13 mins   ██████████████▒░░░░░░░░░░   41.69 %
+JavaScript   1 h 21 mins   ████████▓░░░░░░░░░░░░░░░░   25.39 %
+RPA          1 h 15 mins   ███████▓░░░░░░░░░░░░░░░░░   23.51 %
+Docker           30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+```
+
+<!--END_SECTION:waka-->
 <hr>
 
 ## 📈 My GitHub Stats:
