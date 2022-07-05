@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me:
 
-Hi, I am [Osanda Nimalarathna](https://osandadeshan.github.io/), a highly focused Associate Technical Specialist experienced in a variety of automation and engineering positions. Organized, methodical and a keen eye for detail results in solid coding and trustworthy automation scripting. Understanding client requirements and communicating the progress of projects are core values in achieving long lasting business relationships.
+Hi, I am [Osanda Nimalarathna](https://osandadeshan.github.io/), a highly focused Technical Specialist experienced in a variety of automation and engineering positions. Organized, methodical and a keen eye for detail results in solid coding and trustworthy automation scripting. Understanding client requirements and communicating the progress of projects are core values in achieving long lasting business relationships.
 
 I am a passionate individual and a technophiles obsessed with the latest technologies. I have always been a great problem solver and creative. I prefer to find new solutions using the latest approaches and systems. I am both self-driven and self-motivated, and I am constantly experimenting with new technologies and techniques. I take great care in the experience, architecture, and code quality of the solutions I build.
 
