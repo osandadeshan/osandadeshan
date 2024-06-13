@@ -153,4 +153,4 @@ Docker           30 mins   ███░░░░░░░░░░░░░░�
 <p>
 <hr>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love engaging with diverse individuals.</b> If you'd like to say <b>Hello, I'd be delighted to connect with you!</b> 😃</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love engaging with diverse individuals. If you'd like to say Hello, I'd be delighted to connect with you!</b> 😃</em>
