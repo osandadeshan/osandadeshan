@@ -87,6 +87,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ## 🥇 Certifications:
 | Certification | Issuer | Link | Issued Date |
 | ------------ | ------------ | ------------ | ------------ |
+| ACCELQ Automation Expert | [ACCELQ](https://www.accelq.com/) | [Certificate](https://certificate.accelq.com/verify/173bb239690 "Certificate") | Oct 24, 2023 |
+| ACCELQ Automation Engineer | [ACCELQ](https://www.accelq.com/) | [Certificate](https://certificate.accelq.com/verify/6f7f4a2e689 "Certificate") | Oct 23, 2023 |
 | RPA Solution Architect | [Automation Anywhere](https://www.automationanywhere.com/) | [Badge](https://certificates.automationanywhere.com/f2a97613-6e23-4fdf-9446-79df82ed5a5b "Badge") | Aug 12, 2020 |
 | Bot Developer Enterprise | [Automation Anywhere](https://www.automationanywhere.com/) | [Badge](https://certificates.automationanywhere.com/f37c8359-5da9-433c-a224-fe3a3faf1c42 "Badge") | Aug 15, 2021 |
 | Bot Developer (Automation 360) | [Automation Anywhere](https://www.automationanywhere.com/) | [Badge](https://certificates.automationanywhere.com/67fb31cb-2f22-4157-8f7a-93b2d6c6d2dc "Badge") | Aug 23, 2021 |
@@ -94,6 +96,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 | Secure Bot Developer | [Automation Anywhere](https://www.automationanywhere.com/) | [Badge](https://certificates.automationanywhere.com/e78aaf13-f62c-436e-bfd4-9bd7e643de40 "Badge") | Sep 05, 2021 |
 | HackerRank Java | [HackerRank](https://www.hackerrank.com/) | [Certificate](https://www.hackerrank.com/certificates/3fbf0403009f "Certificate") | Aug 10, 2021 |
 | MongoDB Basics | [MongoDB University](https://university.mongodb.com/) | [Certificate](https://university.mongodb.com/course_completion/e9865401-5149-4630-aa04-f94b154c6b15 "Certificate") | Dec 19, 2021 |
+| MongoDB Basic Cluster Administration | [MongoDB University](https://university.mongodb.com/) | [Certificate](https://university.mongodb.com/course_completion/831c1097-c30b-4b4f-ad54-8d1f8b3068e7 "Certificate") | Apr 13, 2022 |
 | Gremlin Certified Chaos Engineering Practitioner | [Gremlin](https://www.gremlin.com/) | [Certificate](https://www.credential.net/92812c7b-decd-4e82-90e1-d654f870394e "Certificate") | Jun 20, 2021 |
 | SAFe® 5 Agile Software Engineer | [Scaled Agile Inc](https://www.scaledagile.com/ "Scaled Agile Inc") | [Badge](https://www.youracclaim.com/badges/2682aa4d-51c2-4db0-b7ea-080f6174ce0f "Badge") | Feb 27, 2021 |
 | SAFe® 5 Agilist | [Scaled Agile Inc](https://www.scaledagile.com/ "Scaled Agile Inc") | [Badge](https://www.youracclaim.com/badges/6deb4350-1fc3-4758-a1be-ecfdb04bf17a/linked_in_profile "Badge") | Jul 3, 2020 |
@@ -150,4 +153,4 @@ Docker           30 mins   ███░░░░░░░░░░░░░░�
 <p>
 <hr>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people.</b> If you want to say <b>Hi, I will be happy to meet you!</b> 😃</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love engaging with diverse individuals.</b> If you'd like to say <b>Hello, I'd be delighted to connect with you!</b> 😃</em>
