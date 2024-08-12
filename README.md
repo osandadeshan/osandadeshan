@@ -11,7 +11,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://medium.com/@osandadeshan"><img width="32px" alt="Medium" title="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=red"/></a>
+  <a href="https://medium.com/@osandadeshan"><img width="32px" alt="Medium" title="Medium" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/osandadeshan/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
