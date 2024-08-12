@@ -1,24 +1,52 @@
-### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- Heading -->
+<p align="center">
+  <a href="https://github.com/osandadeshan/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1000&width=435&lines=Osanda+Deshan+Nimalarathna" /></a>
+</p>
 
-<a href="https://twitter.com/osandadeshan/">
-  <img align="left" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
-<a href="https://www.linkedin.com/in/osandadeshan/">
-  <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
-<a href="https://osandadeshan.medium.com/">
-  <img align="left" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
-</a>
-<a href="https://github.com/osandadeshan/">
-  <img align="left" src="https://komarev.com/ghpvc/?username=osandadeshan" alt="page views" />
-</a>
-<a href="https://github.com/osandadeshan?tab=followers">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/osandadeshan?color=green&logo=github">
-</a>
-<a href="https://github.com/osandadeshan?tab=stars">
-  <img alt="GitHub followers" src="https://img.shields.io/github/stars/osandadeshan?color=yellow&logo=github">
-</a>
+<p align="center">
+  <a href="https://github.com/osandadeshan/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=570&lines=Fullstack+Software+Automation+Developer" /></a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://medium.com/@osandadeshan"><img width="32px" alt="Medium" title="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=red"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/osandadeshan/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/osandadeshan/"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.youtube.com/@OsandaDeshanNimalarathna"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/osandadeshan"><img width="32px" alt="Dev.to" title="OsandaDeshan Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+<br/>
+
+<!-- Social badges section -->
+<p align="center">
+  <a href="https://github.com/osandadeshan?tab=followers">
+    <img alt="Followers" title="Follow me on Github" src="https://img.shields.io/github/followers/osandadeshan?color=red&logo=github"/>
+  </a>
+  <a href="https://github.com/osandadeshan?tab=stars">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/osandadeshan?color=yellow&logo=github">
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=osandadeshan&style=for-the-badge">
+    <img alt="Profile Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=osandadeshan&style=for-the-badge"/>
+  </a>
+</p>
+
 <br />
+
+<!-- GitHub Star link -->
+<p align="center">
+  <a href="https://stars.github.com/profiles/osandadeshan/">
+    <img src="https://github.com/osandadeshan/osandadeshan/blob/master/github-stars-program.png?raw=true" alt="GitHub Star 2024"/></a>
+</p>
+
+<br/>
 
 ## 👨‍💻 About Me:
 
