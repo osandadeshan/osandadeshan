@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/osandadeshan/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=570&lines=Full+-+Stack+Software+Automation+Developer" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=570&lines=Full-Stack+Software+Automation+Developer" /></a>
 </p>
 
 <!-- Social icons section -->
