@@ -101,52 +101,55 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!-- TODO-IST:START -->
 
-* Industry aware and technically up to speed with current software development tools.
-* Strong analytical skills and level headed problem solver.
-* Strong Java in an object orientated environment.
-* Solid experience in test automation framework development
-* Experienced in behaviour driven test automation using Gauge Framework (Web, API and Mobile automation).
-* Performance testing using JMeter.
-* Continuos integration and deployment using Jenkins.
-* API development using ExpressJs.
-* Visual test automation using Applitools.
-* Windows GUI based automation using AutoIt.
-* Security testing.
-* Version controlling using Git.
-* Reporting and documentation using JIRA and Confluence.
-* Knowledge in Apache, MySQL and Mongo databases and Linux.
+- Industry aware and technically up to speed with current software development tools.
+- Strong analytical skills and level headed problem solver.
+- Strong Java in an object orientated environment.
+- Solid experience in test automation framework development
+- Experienced in behaviour driven test automation using Gauge Framework (Web, API and Mobile automation).
+- Performance testing using JMeter.
+- Continuos integration and deployment using Jenkins.
+- API development using ExpressJs.
+- Visual test automation using Applitools.
+- Windows GUI based automation using AutoIt.
+- Security testing.
+- Version controlling using Git.
+- Reporting and documentation using JIRA and Confluence.
+- Knowledge in Apache, MySQL and Mongo databases and Linux.
 
 <!-- TODO-IST:END -->
 <hr>
 
 ## 🥇 Certifications:
-| Certification | Issuer | Link | Issued Date |
-| ------------ | ------------ | ------------ | ------------ |
-| ACCELQ Automation Expert | [ACCELQ](https://www.accelq.com/) | [Certificate](https://certificate.accelq.com/verify/173bb239690 "Certificate") | Oct 24, 2023 |
-| ACCELQ Automation Engineer | [ACCELQ](https://www.accelq.com/) | [Certificate](https://certificate.accelq.com/verify/6f7f4a2e689 "Certificate") | Oct 23, 2023 |
-| RPA Solution Architect | [Automation Anywhere](https://www.automationanywhere.com/) | [Badge](https://certificates.automationanywhere.com/f2a97613-6e23-4fdf-9446-79df82ed5a5b "Badge") | Aug 12, 2020 |
-| Bot Developer Enterprise | [Automation Anywhere](https://www.automationanywhere.com/) | [Badge](https://certificates.automationanywhere.com/f37c8359-5da9-433c-a224-fe3a3faf1c42 "Badge") | Aug 15, 2021 |
-| Bot Developer (Automation 360) | [Automation Anywhere](https://www.automationanywhere.com/) | [Badge](https://certificates.automationanywhere.com/67fb31cb-2f22-4157-8f7a-93b2d6c6d2dc "Badge") | Aug 23, 2021 |
-| IQ Bot Developer | [Automation Anywhere](https://www.automationanywhere.com/) | [Badge](https://certificates.automationanywhere.com/2fb63b0e-af37-4f37-bc7e-0dfae0b4477f "Badge") | Aug 15, 2021 |
-| Secure Bot Developer | [Automation Anywhere](https://www.automationanywhere.com/) | [Badge](https://certificates.automationanywhere.com/e78aaf13-f62c-436e-bfd4-9bd7e643de40 "Badge") | Sep 05, 2021 |
-| HackerRank Java | [HackerRank](https://www.hackerrank.com/) | [Certificate](https://www.hackerrank.com/certificates/3fbf0403009f "Certificate") | Aug 10, 2021 |
-| MongoDB Basics | [MongoDB University](https://university.mongodb.com/) | [Certificate](https://university.mongodb.com/course_completion/e9865401-5149-4630-aa04-f94b154c6b15 "Certificate") | Dec 19, 2021 |
-| MongoDB Basic Cluster Administration | [MongoDB University](https://university.mongodb.com/) | [Certificate](https://university.mongodb.com/course_completion/831c1097-c30b-4b4f-ad54-8d1f8b3068e7 "Certificate") | Apr 13, 2022 |
-| Gremlin Certified Chaos Engineering Practitioner | [Gremlin](https://www.gremlin.com/) | [Certificate](https://www.credential.net/92812c7b-decd-4e82-90e1-d654f870394e "Certificate") | Jun 20, 2021 |
-| SAFe® 5 Agile Software Engineer | [Scaled Agile Inc](https://www.scaledagile.com/ "Scaled Agile Inc") | [Badge](https://www.youracclaim.com/badges/2682aa4d-51c2-4db0-b7ea-080f6174ce0f "Badge") | Feb 27, 2021 |
-| SAFe® 5 Agilist | [Scaled Agile Inc](https://www.scaledagile.com/ "Scaled Agile Inc") | [Badge](https://www.youracclaim.com/badges/6deb4350-1fc3-4758-a1be-ecfdb04bf17a/linked_in_profile "Badge") | Jul 3, 2020 |
-| ISTQB® CTFL | [ISTQB - International Software Testing Qualifications Board](https://www.istqb.org/ "ISTQB - International Software Testing Qualifications Board") | [Passed List](https://www.sl-stb.org/exam/results.html "Passed List") | Jul 17, 2017 |
+
+| Certification                                    | Issuer                                                                                                                                              | Link                                                                                                               | Issued Date  |
+| ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------ |
+| ACCELQ Automation Expert                         | [ACCELQ](https://www.accelq.com/)                                                                                                                   | [Certificate](https://certificate.accelq.com/verify/173bb239690 "Certificate")                                     | Oct 24, 2023 |
+| ACCELQ Automation Engineer                       | [ACCELQ](https://www.accelq.com/)                                                                                                                   | [Certificate](https://certificate.accelq.com/verify/6f7f4a2e689 "Certificate")                                     | Oct 23, 2023 |
+| RPA Solution Architect                           | [Automation Anywhere](https://www.automationanywhere.com/)                                                                                          | [Badge](https://certificates.automationanywhere.com/f2a97613-6e23-4fdf-9446-79df82ed5a5b "Badge")                  | Aug 12, 2020 |
+| Bot Developer Enterprise                         | [Automation Anywhere](https://www.automationanywhere.com/)                                                                                          | [Badge](https://certificates.automationanywhere.com/f37c8359-5da9-433c-a224-fe3a3faf1c42 "Badge")                  | Aug 15, 2021 |
+| Bot Developer (Automation 360)                   | [Automation Anywhere](https://www.automationanywhere.com/)                                                                                          | [Badge](https://certificates.automationanywhere.com/67fb31cb-2f22-4157-8f7a-93b2d6c6d2dc "Badge")                  | Aug 23, 2021 |
+| IQ Bot Developer                                 | [Automation Anywhere](https://www.automationanywhere.com/)                                                                                          | [Badge](https://certificates.automationanywhere.com/2fb63b0e-af37-4f37-bc7e-0dfae0b4477f "Badge")                  | Aug 15, 2021 |
+| Secure Bot Developer                             | [Automation Anywhere](https://www.automationanywhere.com/)                                                                                          | [Badge](https://certificates.automationanywhere.com/e78aaf13-f62c-436e-bfd4-9bd7e643de40 "Badge")                  | Sep 05, 2021 |
+| HackerRank Java                                  | [HackerRank](https://www.hackerrank.com/)                                                                                                           | [Certificate](https://www.hackerrank.com/certificates/3fbf0403009f "Certificate")                                  | Aug 10, 2021 |
+| MongoDB Basics                                   | [MongoDB University](https://university.mongodb.com/)                                                                                               | [Certificate](https://university.mongodb.com/course_completion/e9865401-5149-4630-aa04-f94b154c6b15 "Certificate") | Dec 19, 2021 |
+| MongoDB Basic Cluster Administration             | [MongoDB University](https://university.mongodb.com/)                                                                                               | [Certificate](https://university.mongodb.com/course_completion/831c1097-c30b-4b4f-ad54-8d1f8b3068e7 "Certificate") | Apr 13, 2022 |
+| Gremlin Certified Chaos Engineering Practitioner | [Gremlin](https://www.gremlin.com/)                                                                                                                 | [Certificate](https://www.credential.net/92812c7b-decd-4e82-90e1-d654f870394e "Certificate")                       | Jun 20, 2021 |
+| SAFe® 5 Agile Software Engineer                  | [Scaled Agile Inc](https://www.scaledagile.com/ "Scaled Agile Inc")                                                                                 | [Badge](https://www.youracclaim.com/badges/2682aa4d-51c2-4db0-b7ea-080f6174ce0f "Badge")                           | Feb 27, 2021 |
+| SAFe® 5 Agilist                                  | [Scaled Agile Inc](https://www.scaledagile.com/ "Scaled Agile Inc")                                                                                 | [Badge](https://www.youracclaim.com/badges/6deb4350-1fc3-4758-a1be-ecfdb04bf17a/linked_in_profile "Badge")         | Jul 3, 2020  |
+| ISTQB® CTFL                                      | [ISTQB - International Software Testing Qualifications Board](https://www.istqb.org/ "ISTQB - International Software Testing Qualifications Board") | [Passed List](https://www.sl-stb.org/exam/results.html "Passed List")                                              | Jul 17, 2017 |
+
 <hr>
 
 ## 🏆 Honors and Awards:
 
-| Honor/Award | Issuer | Link | Date |
-| ------------ | ------------ | ------------ | ------------ |
-| 1st Rank in Test Automation University | [Test Automation University](https://testautomationu.applitools.com "Test Automation University") | [Top 100](https://testautomationu.applitools.com/tau100.html "Top 100") | May 1, 2020 |
-| 1st Rank and Gold badge for "Java" in HackerRank | [HackerRank](https://www.hackerrank.com/ "HackerRank") | [Leaderboard](https://www.hackerrank.com/leaderboard?filter=osandadeshan&filter_on=hacker&limit=5000&page=1&track=java&type=practice "Leaderboard") | May 21, 2020 |
-| Gold badge for "JavaScript" in HackerRank | [HackerRank](https://www.hackerrank.com/ "HackerRank") | [Badge](https://www.hackerrank.com/osandadeshan?hr_r=1) | June 1, 2020 |
-| Gold badge for "Problem Solving" in HackerRank | [HackerRank](https://www.hackerrank.com/ "HackerRank") | [Badge](https://www.hackerrank.com/osandadeshan?hr_r=1) | July 28, 2020 |
-| 1st Runners Up in Deft Coders Hackathon 2015 | [Computer Society of Uva Wellassa University](http://www.uwu.ac.lk/ "Computer Society of Uva Wellassa University") |   | 13th Feb 2015 |
+| Honor/Award                                      | Issuer                                                                                                             | Link                                                                                                                                                | Date          |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| 1st Rank in Test Automation University           | [Test Automation University](https://testautomationu.applitools.com "Test Automation University")                  | [Top 100](https://testautomationu.applitools.com/tau100.html "Top 100")                                                                             | May 1, 2020   |
+| 1st Rank and Gold badge for "Java" in HackerRank | [HackerRank](https://www.hackerrank.com/ "HackerRank")                                                             | [Leaderboard](https://www.hackerrank.com/leaderboard?filter=osandadeshan&filter_on=hacker&limit=5000&page=1&track=java&type=practice "Leaderboard") | May 21, 2020  |
+| Gold badge for "JavaScript" in HackerRank        | [HackerRank](https://www.hackerrank.com/ "HackerRank")                                                             | [Badge](https://www.hackerrank.com/osandadeshan?hr_r=1)                                                                                             | June 1, 2020  |
+| Gold badge for "Problem Solving" in HackerRank   | [HackerRank](https://www.hackerrank.com/ "HackerRank")                                                             | [Badge](https://www.hackerrank.com/osandadeshan?hr_r=1)                                                                                             | July 28, 2020 |
+| 1st Runners Up in Deft Coders Hackathon 2015     | [Computer Society of Uva Wellassa University](http://www.uwu.ac.lk/ "Computer Society of Uva Wellassa University") |                                                                                                                                                     | 13th Feb 2015 |
+
 <hr>
 
 ## ✍🏻 My Publications:
@@ -162,8 +165,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - [MaxSoft - Test Automation Master](https://medium.com/automationmaster)
 - [eye4U – An Effective Mobile Based Solution for the Visually Impaired]()
 - [MySight – A New Vision for the Blind Community](http://repository.kln.ac.lk/handle/123456789/15632)
-<!-- BLOG-POST-LIST:END -->
-<hr>
+  <!-- BLOG-POST-LIST:END -->
+  <hr>
 
 ## ⏳ In This Week, I Spent My Time On:
 
@@ -181,11 +184,11 @@ Docker           30 mins   ███░░░░░░░░░░░░░░�
 
 ## 📈 My GitHub Stats:
 
-<div align="left"> 
+<div id="github-stats" align="left"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=osandadeshan&theme=dark&background=000000" alt="osandadeshan" />
   <img src="https://github-readme-stats.vercel.app/api?username=osandadeshan&show_icons=true&theme=blue-green" alt="osandadeshan" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osandadeshan&theme=blue-green" alt="osandadeshan" />
-<div>
+</div>
 <hr>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love engaging with diverse individuals. If you'd like to say Hello, I'd be delighted to connect with you!</b> 😃</em>
+<em>Meeting diverse individuals brings me joy, so if you want to connect, I’d be more than happy to chat!</em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
