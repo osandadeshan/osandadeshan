@@ -1,42 +1,48 @@
 <!-- Heading -->
-<p align="center">
+<div id="header" align="center">
   <a href="https://github.com/osandadeshan/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1000&width=435&lines=Osanda+Deshan+Nimalarathna" /></a>
-</p>
-
-<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1000&width=435&lines=Osanda+Deshan+Nimalarathna" />
+  </a>
+  <br />
   <a href="https://github.com/osandadeshan/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=570&lines=Full-Stack+Software+Automation+Developer" /></a>
-</p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=530&lines=Full-Stack+Software+Automation+Developer" />
+  </a>
+  <br />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<br />
 
 <!-- Social icons section -->
-<p align="center">
-  <a href="https://medium.com/@osandadeshan"><img width="32px" alt="Medium" title="Medium" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/osandadeshan/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/osandadeshan/"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@OsandaDeshanNimalarathna"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/osandadeshan"><img width="32px" alt="Dev.to" title="OsandaDeshan Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+<div id="social" align="center">
+  <a href="https://medium.com/@osandadeshan">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/osandadeshan/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/osandadeshan/">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@OsandaDeshanNimalarathna">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://dev.to/osandadeshan">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to Badge">
+  </a>
+</div>
 
-<br/>
-
-<!-- Social badges section -->
-<p align="center">
+<div id="github" align="center">
   <a href="https://github.com/osandadeshan?tab=followers">
-    <img alt="Followers" title="Follow me on Github" src="https://img.shields.io/github/followers/osandadeshan?color=red&logo=github"/>
+    <img alt="Followers" title="Follow me on Github" src="https://img.shields.io/github/followers/osandadeshan"/>
   </a>
   <a href="https://github.com/osandadeshan?tab=stars">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/osandadeshan?color=yellow&logo=github">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/osandadeshan">
   </a>
-  <a href="https://komarev.com/ghpvc/?username=osandadeshan&style=for-the-badge">
-    <img alt="Profile Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=osandadeshan&style=for-the-badge"/>
+  <a href="https://komarev.com/ghpvc/?username=osandadeshan">
+    <img alt="Profile Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=osandadeshan"/>
   </a>
-</p>
+</div>
 
 <br />
 
@@ -46,7 +52,7 @@
     <img src="https://github.com/osandadeshan/osandadeshan/blob/master/github-stars-program.png?raw=true" alt="GitHub Star 2024"/></a>
 </p>
 
-<br/>
+<hr>
 
 ## 👨‍💻 About Me:
 
@@ -56,7 +62,7 @@ I am a passionate individual and a technophiles obsessed with the latest technol
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source communities.
 
-  <img align="right" alt="GIF" src="https://github.com/osandadeshan/osandadeshan/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/osandadeshan/osandadeshan/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? Please do reach via [email](mailto:osanda.deshan@gmail.com). 😊
 - 💬 Ask me about anything, I am happy to help.
@@ -69,6 +75,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img height="40" src="https://user-images.githubusercontent.com/9147189/132085485-77d9a8a3-714e-4522-922b-5047338cdbb1.png">
 <img height="40" src="https://user-images.githubusercontent.com/9147189/132085451-dfda532a-fd54-430b-8eb3-48c5b96fbe64.png">
 <img height="40" src="https://user-images.githubusercontent.com/9147189/132085461-e585bb96-6a46-4497-b72b-2391b2f10e4b.png">
+<img height="40" src="https://github.com/user-attachments/assets/5ac89720-1cc3-477a-a2df-2b45ec8abe2a">
 <img height="40" src="https://user-images.githubusercontent.com/9147189/132085605-08c3bed6-54d9-4062-883c-1b34fa99c925.png">
 <img height="40" src="https://user-images.githubusercontent.com/9147189/132085661-65f72872-fe1f-4fd3-b288-c4eec1c4d734.png">
 <img height="40" src="https://user-images.githubusercontent.com/9147189/132085683-f2784d89-8119-48d4-95e9-034e46a916ef.png">
@@ -174,11 +181,11 @@ Docker           30 mins   ███░░░░░░░░░░░░░░�
 
 ## 📈 My GitHub Stats:
 
-<p  align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=osandadeshan&show_icons=true&theme=gotham" alt="osandadeshan" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osandadeshan&layout=compact&theme=gotham" alt="osandadeshan" />
-<p>
+<div align="left"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osandadeshan&theme=dark&background=000000" alt="osandadeshan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=osandadeshan&show_icons=true&theme=blue-green" alt="osandadeshan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osandadeshan&theme=blue-green" alt="osandadeshan" />
+<div>
 <hr>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love engaging with diverse individuals. If you'd like to say Hello, I'd be delighted to connect with you!</b> 😃</em>
