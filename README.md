@@ -64,7 +64,7 @@ As an open-source enthusiast and maintainer, I value the collaborative spirit of
 
 <img align="right" alt="GIF" src="https://github.com/osandadeshan/osandadeshan/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Any freelance work? Please do reach via [email](mailto:osanda.deshan@gmail.com). 😊
+- 💼 Any freelance work? Please do reach via [email](mailto:osanda.deshan@gmail.com).
 - 💬 Ask me about anything, I am happy to help.
 
 <br />
