@@ -1,11 +1,11 @@
 <!-- Heading -->
 <div id="header" align="center">
   <a href="https://github.com/osandadeshan/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1000&width=435&lines=Osanda+Deshan+Nimalarathna" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1000&width=450&lines=Osanda+Deshan+Nimalarathna" />
   </a>
   <br />
   <a href="https://github.com/osandadeshan/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=530&lines=Full-Stack+Software+Automation+Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=600&lines=Full-Stack+Software+Test+Automation+Developer" />
   </a>
   <br />
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
