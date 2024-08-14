@@ -56,11 +56,11 @@
 
 ## 👨‍💻 About Me:
 
-Hi, I am [Osanda Nimalarathna](https://osandadeshan.github.io/), a lead quality engineer with 7+ years of experience in designing, implementing, and troubleshooting of automation projects with high scalability, high availability, and high performance. Excel in analytical and problem solving skills. A fast learner and a great team player with good interpersonal skills and communication. Comfortable in following Agile Scrum methodology to achieve goals.
+Hi, I am [Osanda Nimalarathna](https://osandadeshan.github.io/), a seasoned Lead Quality Engineer with over 8 years of experience. I specialize in designing, implementing, and optimizing automation projects for enhanced scalability, availability, and performance. With a strong foundation in advanced QA methodologies, problem-solving, and Agile leadership, I drive project success through technical excellence and collaborative teamwork.
 
-I am a passionate individual and a technophiles obsessed with the latest technologies. I have always been a great problem solver and creative. I prefer to find new solutions using the latest approaches and systems. I am both self-driven and self-motivated, and I am constantly experimenting with new technologies and techniques. I take great care in the experience, architecture, and code quality of the solutions I build.
+I'm passionate about technology, constantly exploring new solutions and systems to solve complex problems creatively. Self-driven and motivated, I focus on delivering high-quality code, architecture, and user experiences.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source communities.
+As an open-source enthusiast and maintainer, I value the collaborative spirit of the open-source community and am committed to contributing and learning through shared knowledge.
 
 <img align="right" alt="GIF" src="https://github.com/osandadeshan/osandadeshan/blob/master/code.gif?raw=true" width="500" height="320" />
   
