@@ -64,13 +64,14 @@ As an open-source enthusiast and maintainer, I value the collaborative spirit of
 
 <img align="right" alt="GIF" src="https://github.com/osandadeshan/osandadeshan/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 **Available to freelance work:** Please do reach via [email](mailto:osanda.deshan@gmail.com).
+- 💼 **Available to Freelance Work:** Please do reach via [email](mailto:osanda.deshan@gmail.com).
 - 🔧 **Available for Consultation:** Open to providing expert advice on automation strategies, testing methodologies, and project management.
 - 🌱 **Always Learning:** Constantly exploring new tools and technologies to stay ahead in the rapidly evolving tech landscape.
 - 📚 **Sharing Knowledge:** Passionate about writing blogs, speaking at events, and helping others grow in their tech careers.
 - 👥 **Open to Collaboration:** Interested in partnering on innovative projects or contributing to impactful open-source initiatives.
 - 💬 **Happy to Help:** Feel free to ask me anything, I'm always open to providing guidance.
 
+<hr>
 
 ## 🛠️ Languages and Tools:
 
@@ -99,6 +100,7 @@ As an open-source enthusiast and maintainer, I value the collaborative spirit of
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </p>
+
 <hr>
 
 ## 🚧 Core Skills:
@@ -121,6 +123,7 @@ As an open-source enthusiast and maintainer, I value the collaborative spirit of
 - Knowledge in Apache, MySQL and Mongo databases and Linux.
 
 <!-- TODO-IST:END -->
+
 <hr>
 
 ## 🥇 Certifications:
@@ -170,6 +173,7 @@ As an open-source enthusiast and maintainer, I value the collaborative spirit of
 - [eye4U – An Effective Mobile Based Solution for the Visually Impaired]()
 - [MySight – A New Vision for the Blind Community](http://repository.kln.ac.lk/handle/123456789/15632)
   <!-- BLOG-POST-LIST:END -->
+
   <hr>
 
 ## ⏳ In This Week, I Spent My Time On:
@@ -195,6 +199,7 @@ Docker                              30 mins       ███░░░░░░░
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osandadeshan&langs_count=6&hide=ruby,visual%20basic,html,css,robotframework,matlab,batchfile&theme=algolia&show_icons=true" alt="osandadeshan" />
 </div>
+
 <hr>
 
 <em>Meeting diverse individuals brings me joy, so if you want to connect, I’d be more than happy to chat!</em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
