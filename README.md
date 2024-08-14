@@ -202,4 +202,4 @@ Docker                              30 mins       ███░░░░░░░
 
 <hr>
 
-<em>Meeting diverse individuals brings me joy, so if you want to connect, I’d be more than happy to chat!</em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<em><b>Meeting diverse individuals brings me joy, so if you want to connect, I’d be more than happy to chat!</b></em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
