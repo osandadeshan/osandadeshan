@@ -184,10 +184,10 @@ Docker           30 mins   ███░░░░░░░░░░░░░░�
 
 ## 📈 My GitHub Stats:
 
-<div id="github-stats" align="left"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osandadeshan&theme=dark&background=000000" alt="osandadeshan" />
-  <img src="https://github-readme-stats.vercel.app/api?username=osandadeshan&show_icons=true&theme=blue-green" alt="osandadeshan" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osandadeshan&theme=blue-green" alt="osandadeshan" />
+<div id="github-stats" align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osandadeshan&theme=algolia&show_icons=true" alt="osandadeshan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=osandadeshan&show_icons=true&theme=algolia&show_icons=true" alt="osandadeshan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osandadeshan&langs_count=6&hide=ruby,visual%20basic,html,css,robotframework,matlab,batchfile&theme=algolia&show_icons=true" alt="osandadeshan" />
 </div>
 <hr>
 
