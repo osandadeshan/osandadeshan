@@ -71,7 +71,6 @@ As an open-source enthusiast and maintainer, I value the collaborative spirit of
 - 👥 **Open to Collaboration:** Interested in partnering on innovative projects or contributing to impactful open-source initiatives.
 - 💬 **Happy to Help:** Feel free to ask me anything, I'm always open to providing guidance.
 
-<br />
 
 ## 🛠️ Languages and Tools:
 
