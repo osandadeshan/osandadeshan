@@ -64,8 +64,12 @@ As an open-source enthusiast and maintainer, I value the collaborative spirit of
 
 <img align="right" alt="GIF" src="https://github.com/osandadeshan/osandadeshan/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Any freelance work? Please do reach via [email](mailto:osanda.deshan@gmail.com).
-- 💬 Ask me about anything, I am happy to help.
+- 💼 **Available to freelance work:** Please do reach via [email](mailto:osanda.deshan@gmail.com).
+- 🔧 **Available for Consultation:** Open to providing expert advice on automation strategies, testing methodologies, and project management.
+- 🌱 **Always Learning:** Constantly exploring new tools and technologies to stay ahead in the rapidly evolving tech landscape.
+- 📚 **Sharing Knowledge:** Passionate about writing blogs, speaking at events, and helping others grow in their tech careers.
+- 👥 **Open to Collaboration:** Interested in partnering on innovative projects or contributing to impactful open-source initiatives.
+- 💬 **Happy to Help:** Feel free to ask me anything, I'm always open to providing guidance.
 
 <br />
 
