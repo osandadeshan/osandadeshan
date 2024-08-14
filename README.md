@@ -174,7 +174,7 @@ As an open-source enthusiast and maintainer, I value the collaborative spirit of
 - [MySight – A New Vision for the Blind Community](http://repository.kln.ac.lk/handle/123456789/15632)
   <!-- BLOG-POST-LIST:END -->
 
-  <hr>
+<hr>
 
 ## ⏳ In This Week, I Spent My Time On:
 
