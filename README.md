@@ -173,10 +173,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Java         2 h 13 mins   ██████████████▒░░░░░░░░░░   41.69 %
-JavaScript   1 h 21 mins   ████████▓░░░░░░░░░░░░░░░░   25.39 %
-RPA          1 h 15 mins   ███████▓░░░░░░░░░░░░░░░░░   23.51 %
-Docker           30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+Java                                2 h 13 mins   ██████████████▒░░░░░░░░░░   41.69 %
+JavaScript                          1 h 21 mins   ████████▓░░░░░░░░░░░░░░░░   25.39 %
+Robotic Process Automation          1 h 15 mins   ███████▓░░░░░░░░░░░░░░░░░   23.51 %
+Docker                              30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   09.41 %
 ```
 
 <!--END_SECTION:waka-->
@@ -187,6 +187,8 @@ Docker           30 mins   ███░░░░░░░░░░░░░░�
 <div id="github-stats" align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=osandadeshan&theme=algolia&show_icons=true" alt="osandadeshan" />
   <img src="https://github-readme-stats.vercel.app/api?username=osandadeshan&show_icons=true&theme=algolia&show_icons=true" alt="osandadeshan" />
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osandadeshan&langs_count=6&hide=ruby,visual%20basic,html,css,robotframework,matlab,batchfile&theme=algolia&show_icons=true" alt="osandadeshan" />
 </div>
 <hr>
