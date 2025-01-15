@@ -107,20 +107,48 @@ As an open-source enthusiast and maintainer, I value the collaborative spirit of
 
 <!-- TODO-IST:START -->
 
-- Industry aware and technically up to speed with current software development tools.
-- Strong analytical skills and level headed problem solver.
-- Strong Java in an object orientated environment.
-- Solid experience in test automation framework development
-- Experienced in behaviour driven test automation using Gauge Framework (Web, API and Mobile automation).
-- Performance testing using JMeter.
-- Continuos integration and deployment using Jenkins.
-- API development using ExpressJs.
-- Visual test automation using Applitools.
-- Windows GUI based automation using AutoIt.
-- Security testing.
-- Version controlling using Git.
-- Reporting and documentation using JIRA and Confluence.
-- Knowledge in Apache, MySQL and Mongo databases and Linux.
+### Automation Testing
+- **Web Automation Frameworks:** Selenium, Playwright, Cypress, Robot Framework, Selenide, WebDriverIO
+- **Mobile Automation Frameworks:** Appium, Robotium
+- **API Automation Frameworks:** Rest-Assured, Playwright
+
+### Programming Languages
+- Java
+- C#
+- TypeScript
+- JavaScript
+- Python
+
+### Performance Testing
+- Gatling
+- JMeter
+- BlazeMeter
+
+### DevOps and CI/CD
+- Jenkins
+- Bamboo
+- SHIP-HATS
+- Docker
+- Kubernetes
+- AWS Cloud Watch
+- Dynatrace
+- Kibana
+
+### Version Control Systems
+- Git
+- GitHub
+- Bitbucket
+- GitLab
+- Gitea
+
+### Database Management
+- MySQL
+- MongoDB
+
+### Soft Skills
+- Leadership and team mentorship
+- Strong problem-solving and analytical skills
+- Effective communication and collaboration
 
 <!-- TODO-IST:END -->
 
