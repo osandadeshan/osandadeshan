@@ -109,8 +109,8 @@ As an open-source enthusiast and maintainer, I value the collaborative spirit of
 
 ### Automation Testing
 - **Web Automation Frameworks:** Selenium, Playwright, Cypress, Robot Framework, Selenide, WebDriverIO
-- **Mobile Automation Frameworks:** Appium, Robotium
-- **API Automation Frameworks:** Rest-Assured, Playwright
+- **Mobile Automation Frameworks:** Appium, Espresso, Robotium
+- **API Automation Frameworks:** Rest-Assured, Playwright, RestSharp
 
 ### Programming Languages
 - Java
@@ -126,6 +126,7 @@ As an open-source enthusiast and maintainer, I value the collaborative spirit of
 
 ### DevOps and CI/CD
 - Jenkins
+- Azure DevOps
 - Bamboo
 - SHIP-HATS
 - Docker
