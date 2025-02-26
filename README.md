@@ -5,7 +5,7 @@
   </a>
   <br />
   <a href="https://github.com/osandadeshan/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=600&lines=Full-Stack+Software+Test+Automation+Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=600&lines=Full-Stack+Software+Test+Automation+Engineer" />
   </a>
   <br />
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
