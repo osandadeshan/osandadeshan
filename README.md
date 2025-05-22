@@ -114,6 +114,7 @@ As an open-source enthusiast and maintainer, I value the collaborative spirit of
 
 ### Programming Languages
 - Java
+- Kotlin
 - C#
 - TypeScript
 - JavaScript
