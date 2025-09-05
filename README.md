@@ -56,7 +56,7 @@
 
 ## 👨‍💻 About Me:
 
-Hi, I am [Osanda Nimalarathna](https://osandadeshan.github.io/), a seasoned Lead Quality Engineer with over 8 years of experience. I specialize in designing, implementing, and optimizing automation projects for enhanced scalability, availability, and performance. With a strong foundation in advanced QA methodologies, problem-solving, and Agile leadership, I drive project success through technical excellence and collaborative teamwork.
+Hi, I am [Osanda Nimalarathna](https://osandadeshan.github.io/), a seasoned Lead Quality Engineer with over 9 years of experience. I specialize in designing, implementing, and optimizing automation projects for enhanced scalability, availability, and performance. With a strong foundation in advanced QA methodologies, problem-solving, and Agile leadership, I drive project success through technical excellence and collaborative teamwork.
 
 I'm passionate about technology, constantly exploring new solutions and systems to solve complex problems creatively. Self-driven and motivated, I focus on delivering high-quality code, architecture, and user experiences.
 
